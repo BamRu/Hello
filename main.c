@@ -2,5 +2,6 @@
 
 int main()
 {
-   printf ("Hello world!");
+   printf ("Hello world!\n");
+   printf ("13.02.17\n");
 }
